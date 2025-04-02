@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Markthal Rotterdam",
+    "type": "Market",
+    "cuisine": ["Dutch", "International"],
+    "address": "Dominee Jan Scharpstraat 298, 3011 GZ Rotterdam",
+    "latitude": 51.9244,
+    "longitude": 4.4801,
+    "description": "A famous food hall with a variety of international food stalls.",
+    "image": "https://example.com/markthal.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Roffa Streetfoodbar",
+    "type": "Food Truck",
+    "cuisine": ["Burgers"],
+    "address": "Benthemplein 12, 3032 CC Rotterdam",
+    "latitude": 51.9241,
+    "longitude": 4.4805,
+    "description": "A great place for high-quality burgers and street food.",
+    "image": "https://example.com/roffa.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fenix Food Factory",
+    "type": "Market",
+    "cuisine": ["Dutch", "Artisanal"],
+    "address": "Nico Koomanskade 1025, 3072 LM Rotterdam",
+    "latitude": 51.9067,
+    "longitude": 4.4881,
+    "description": "A vibrant market offering locally produced food and drinks.",
+    "image": "https://example.com/fenix.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Foodhallen Rotterdam",
+    "type": "Market",
+    "cuisine": ["Various"],
+    "address": "Wilhelminakade 58, 3072 AR Rotterdam",
+    "latitude": 51.9091,
+    "longitude": 4.4857,
+    "description": "A modern indoor food market featuring multiple international food vendors.",
+    "image": "https://example.com/foodhallen.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Viet Yam",
+    "type": "Food Truck",
+    "cuisine": ["Vietnamese"],
+    "address": "Witte de Withstraat 23, 3012 BL Rotterdam",
+    "latitude": 51.9177,
+    "longitude": 4.4778,
+    "description": "A popular food truck serving fresh Vietnamese street food.",
+    "image": "https://example.com/vietyam.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Burger Club",
+    "type": "Restaurant",
+    "cuisine": ["Burgers"],
+    "address": "Oude Binnenweg 144, 3012 JG Rotterdam",
+    "latitude": 51.9145,
+    "longitude": 4.4722,
+    "description": "One of the best burger places in Rotterdam with homemade patties.",
+    "image": "https://example.com/burgerclub.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Satebar",
+    "type": "Restaurant",
+    "cuisine": ["Indonesian"],
+    "address": "Witte de Withstraat 51A, 3012 BM Rotterdam",
+    "latitude": 51.9154,
+    "longitude": 4.4765,
+    "description": "Authentic Indonesian satay and street food in the heart of Rotterdam.",
+    "image": "https://example.com/satebar.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kaapse Brouwers",
+    "type": "Bar",
+    "cuisine": ["Craft Beer"],
+    "address": "Vegafoodstraat 12, 3072 XS Rotterdam",
+    "latitude": 51.9056,
+    "longitude": 4.4879,
+    "description": "A must-visit for craft beer lovers with a great selection of local brews.",
+    "image": "https://example.com/kaapsebrouwers.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Amigo’s Streetfood",
+    "type": "Food Truck",
+    "cuisine": ["Mexican"],
+    "address": "West-Kruiskade 21, 3014 AJ Rotterdam",
+    "latitude": 51.9210,
+    "longitude": 4.4713,
+    "description": "A well-known food truck offering delicious tacos and burritos.",
+    "image": "https://example.com/amigos.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bazar Rotterdam",
+    "type": "Restaurant",
+    "cuisine": ["Middle Eastern"],
+    "address": "Witte de Withstraat 16, 3012 BP Rotterdam",
+    "latitude": 51.9174,
+    "longitude": 4.4756,
+    "description": "A colorful Middle Eastern restaurant with an authentic atmosphere.",
+    "image": "https://example.com/bazar.jpg"
+  }
+]
